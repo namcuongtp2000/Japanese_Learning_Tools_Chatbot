@@ -1,7 +1,7 @@
 # Japanese_Learning_Tools_Chatbot
 1.Introduction
 
-This is a simple python application for Japanese Learner include Speech Chatbot features.
+This is a simple python application for Japanese Learners included Speech Chatbot and Handwritten Recognition features.
 If you want to use my work on your projects, please REFERENCE this GITHUB link.
 
 2.Installation
