@@ -6,7 +6,7 @@ If you want to use my work on your projects, please REFERENCE this GITHUB link.
 
 2.Installation
 
-(Win10) python -m pip install -r requirements.txt
+python -m pip install -r requirements.txt
 
 omz_downloader --name --handwritten-japanese-recognition-0001
   
