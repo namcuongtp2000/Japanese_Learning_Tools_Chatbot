@@ -45,6 +45,8 @@ https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-3.1
 
 Add exception and pass speaking Japanese in 'japanese_dictionary_gui.py' when microphone can't recognize your speech . Error results: '<speech_recognition.audio.AudioData object at 0000x...>'
 
+In 'japanese_dictionary_gui.py', function search_entry add features translate meaning results to the same language as your text input and visualize to Dictionary Box. However, it just visualizes a small part of meaning results, that's weird.
+
 5.Reference projects:
 https://github.com/yas-sim/handwritten-japanese-ocr
 https://github.com/AtomCrafty/KanjiStrokes
