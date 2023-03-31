@@ -1,5 +1,13 @@
 opencv-python
 numpy
 openvino-dev
-omz_downloader --name --handwritten-japanese-recognition-0001
-omz_downloader --name --text-detection-0003
+PYL
+gtts
+jamdict
+pygame
+tkinter
+speech_recognition
+summa
+pillow
+pygoogletranslation
+langdetect
