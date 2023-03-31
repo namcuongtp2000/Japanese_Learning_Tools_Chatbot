@@ -1,5 +1,7 @@
 # Japanese_Learning_Tools_Chatbot
 1.Introduction
+This is a simple python application for Japanese Learner include Speech Chatbot features.
+If you want to use my work on your projects, please REFERENCE this GITHUB link.
 
 2.Installation
   2.1. omz_downloader --name --handwritten-japanese-recognition-0001
