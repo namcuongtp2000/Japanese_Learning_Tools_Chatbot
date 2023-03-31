@@ -27,9 +27,6 @@
 | | + FP16  
 | | | + text-detection-0003.xml  
 | | | + text-detection-0003.bin
-./
-
-
 
   2.3 https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-3.1.3-windows-x64-installer
   2.4.(Linux) python3 -m pip install -r requirements.txt
