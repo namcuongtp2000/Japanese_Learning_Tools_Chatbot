@@ -41,7 +41,9 @@ https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-3.1
 
 3.Using guide
 
-4.Update
+4.Update/ Fix bugs:
+
+Add exception and pass speaking Japanese when microphone can't recognize your speech . Error results: '<speech_recognition.audio.AudioData object at 0000x...>'
 
 5.Reference projects:
 https://github.com/yas-sim/handwritten-japanese-ocr
