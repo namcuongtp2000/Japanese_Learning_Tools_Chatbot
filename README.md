@@ -54,4 +54,9 @@ Update scan japanese from images.
 5.Reference projects:
 
 https://github.com/yas-sim/handwritten-japanese-ocr
+
 https://github.com/AtomCrafty/KanjiStrokes
+
+6.Contact
+
+Please contact me via email: namcuongtp2000@gmail.com
