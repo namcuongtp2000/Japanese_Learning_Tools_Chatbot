@@ -47,6 +47,8 @@ Add exception and pass speaking Japanese in 'japanese_dictionary_gui.py' when mi
 
 In 'japanese_dictionary_gui.py', function 'search_entry' : add features translate meaning results to the same language as your text input and visualize to Dictionary Box. However, it just visualizes a small part of meaning results, that's weird.
 
+Update scripts of scenario for chatbot for more extensive responses.
+
 5.Reference projects:
 https://github.com/yas-sim/handwritten-japanese-ocr
 https://github.com/AtomCrafty/KanjiStrokes
