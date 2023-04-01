@@ -50,5 +50,6 @@ In 'japanese_dictionary_gui.py', function 'search_entry' : add features translat
 Update scripts of scenario for chatbot for more extensive responses.
 
 5.Reference projects:
+
 https://github.com/yas-sim/handwritten-japanese-ocr
 https://github.com/AtomCrafty/KanjiStrokes
