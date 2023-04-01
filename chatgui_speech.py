@@ -271,7 +271,10 @@ def upload_text():
                 ChatLog.config(state=DISABLED)
                 ChatLog.yview(END)
                 print(summarization_lang)
-                playvoice(str(summarization_lang))
+                if is_on==True:
+                    playvoice(str(summarization_lang))
+                else:
+                    pass
         elif str(file_path).endswith('.pdf'):
             reader = PdfReader(file_path)
             print('Your pdf file has %s pages'%len(reader.pages))
