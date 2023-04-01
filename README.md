@@ -41,7 +41,7 @@ https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-3.1
 
 3.Using guide
 
-4.Update/ Fix bugs:
+4.Update/ Fix issues:
 
 Add exception and pass speaking Japanese in 'japanese_dictionary_gui.py' when microphone can't recognize your speech . Error results: '<speech_recognition.audio.AudioData object at 0000x...>'
 
