@@ -188,8 +188,8 @@ def activate_microphone_language():
             playvoice('open dictionary')
             os.system('python japanese_dictionary_gui.py')
         elif res == 'OK. I will summarize your documents immediately, please wait for a second.':
-            print('Navigating to summarizer. Please enter text in text entry box or upload your file before start calling summarizer.')
-            playvoice('OK. I will summarize your documents immediately, please wait for a second.')
+            print('Navigating to summarizer.')
+            playvoice('OK. Please make sure you entered your text message in text entry box before start using microphone. I will summarize your documents immediately, please wait for a second.')
             summary()
         else:
             result_trans = translate_to_dest(res)
