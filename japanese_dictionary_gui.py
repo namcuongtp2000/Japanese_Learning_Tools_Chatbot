@@ -161,9 +161,9 @@ def if_kanji(patterns):
     results = jam.lookup(patterns)
     return str(results)
 def open_drawing_strokes():
-    os.system('start D:\Project\JapaneseDictionary\KanjiStrokes\KanjiStrokes.exe')
+    os.system('start KanjiStrokes/KanjiStrokes.exe')
 def open_handwriting():
-    os.system('python D:\Project\Handwritten\handwritten-japanese-ocr\handwritten.py')
+    os.system('python handwritten.py')
 def search_entry():
     msg = EntryBox.get("1.0",'end-1c').strip()
     EntryBox.delete("0.0",END)
