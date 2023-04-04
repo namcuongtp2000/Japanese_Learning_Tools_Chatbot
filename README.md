@@ -41,6 +41,41 @@ https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-3.1
 
 3.Using guide
 
+3.1. Chatbot window
+
+Here's the chatbot window:
+<img src="/img/chatbot_window.png" alt="Chatbot Window" title="Chatbot Window">
+
+You should choose your language in dropbox first and start chatting with chatbot by typing text and click "Send Text" or speak by "Microphone" symbol EXACTLY like your language you choose at first. If you use "Microphone", you can speak some command key words to open some applications/features for example "Open dictionary","Open handwriting" or "Open drawing strokes" (just something like Cortana or Google Assistant).
+
+Or you can typing text and  click "Summarize" to summarize your text or upload a text file or pdf file by "Upload file" to summarize your documents.
+
+Typing in the text entry box your key words and click "Search Google" and Chatlog will response some website links for you.
+
+Voice speaking is always turn on in default. If you don't like voice speaking, you definitely can turn off and simply chat.
+
+Here's tutorial by visual image may help you:
+
+<img src="/img/chatbot_guide.png" alt="Chatbot Guide" title="Chatbot Guide">
+
+3.2 Japanese Dictionary Window
+
+Here's Japanese Dictionary Window: 
+
+<img src="/img/dictionary_window.png" alt="Dictionary Window" title="Dictionary Window">
+
+Similar like Chatbot Window, you should first pick your language and start typing and click "SEARCH" or speak through "Microphone symbol" EXACTLY by your choosing language. If you want to search by Japanese or Kanji, type Kanji or Japanese in text box and click "SEARCH KANJI".
+
+Voice speaking is always turn on in default. If you don't like voice speaking, you definitely can turn off and simply chat.
+
+You can also click in other 2 symbols to open "Drawing strokes" and "Handwriting" or you can speak command through microphone by symbol "Navigator" below "Turn on/off" button.
+
+Your results will display Japanese (Hiragan, Katakana or Kanji) words, and its meaning in your language which you chose first and it only can search/look up words or short phrases but not can translate whole long sentences. (Because it's just a dictionary, not translator).
+
+Here's tutorial by visual image of Japanese Dictionary may help you:
+
+<img src="/img/dictionary_guide.png" alt="Dictionary Guide" title="Dictionary Guide">
+
 4.Update/ Fix issues:
 
 Add exception and pass speaking Japanese in 'japanese_dictionary_gui.py' when microphone can't recognize your speech . Error results: '<speech_recognition.audio.AudioData object at 0000x...>'
