@@ -96,6 +96,8 @@ Here's an example result:
 
 # **4.Update/Issues:**
 
+For now, I just supported 6 languages as following: English, Vietnamese, Japanese, Korean, French and Chinese. Sorry you guys but I'm lazy to put more if/else in my code, it's because I'm just a newbie. If I made any mistakes, I will try to correct, optimize my algorithms and practice my coding skills more and more.
+
 Add exception and pass speaking Japanese in 'japanese_dictionary_gui.py' when microphone can't recognize your speech . Error results: '<speech_recognition.audio.AudioData object at 0000x...>'
 
 Update scan japanese from images.
