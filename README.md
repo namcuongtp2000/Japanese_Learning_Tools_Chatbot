@@ -1,4 +1,4 @@
-# Japanese_Learning_Tools_Chatbot
+# Japanese Learning Tools' Chatbot
 # **1.Introduction**
 
 This is a simple python application for Japanese Learners included Speech Chatbot and Handwritten Recognition features.
