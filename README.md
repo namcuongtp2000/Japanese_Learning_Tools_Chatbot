@@ -78,11 +78,14 @@ Here's tutorial by visual image of Japanese Dictionary may help you:
 
 # *3.3 Handwritting Window*
 
+Thank to https://github.com/yas-sim/handwritten-japanese-ocr, I modify a little source code to make it more features for you.
+
 Here's Japanese Handwritting Recognition Window by running "python handwritting.py":
 
 <img src="/img/Handwritting_window.png" alt="Handwritting Window" title="Handwritting Window">
 
 It's easy, you just draw Kanji or Japanese in white space and click "Recognize", it will response you by Japanese words, it's meaning in English and also speak it in Japanese. After that, you can click Left mouse to contunue and click "Clear" to clear space and continue draw. Moreover, you can set 2 factor options above.
+You can see and copy its text and  looking up results in the Terminal or CMD.
 
 Here's an example result:
 
