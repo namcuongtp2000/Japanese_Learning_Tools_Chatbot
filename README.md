@@ -47,6 +47,8 @@ Add exception and pass speaking Japanese in 'japanese_dictionary_gui.py' when mi
 
 Update scan japanese from images.
 
+Update lecture interfaces and vocabularies. Coming soon!
+
 5.Reference projects:
 
 https://github.com/yas-sim/handwritten-japanese-ocr
