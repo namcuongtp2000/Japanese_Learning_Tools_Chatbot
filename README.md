@@ -1,10 +1,10 @@
 # Japanese_Learning_Tools_Chatbot
-1.Introduction
+# **1.Introduction**
 
 This is a simple python application for Japanese Learners included Speech Chatbot and Handwritten Recognition features.
 If you want to use my work on your projects, please REFERENCE this GITHUB link.
 
-2.Installation
+# **2.Installation**
 
 python -m pip install -r requirements.txt
 
@@ -39,9 +39,9 @@ omz_downloader --name --text-detection-0003
 https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-3.1.3-windows-x64-installer
 
 
-3.Using guide
+# **3.Using guide**
 
-3.1. Chatbot window
+# *3.1. Chatbot window*
 
 Here's the chatbot window:
 <img src="/img/chatbot_window.png" alt="Chatbot Window" title="Chatbot Window">
@@ -58,7 +58,7 @@ Here's tutorial by visual image may help you:
 
 <img src="/img/chatbot_guide.png" alt="Chatbot Guide" title="Chatbot Guide">
 
-3.2 Japanese Dictionary Window
+# *3.2 Japanese Dictionary Window*
 
 Here's Japanese Dictionary Window: 
 
@@ -76,7 +76,7 @@ Here's tutorial by visual image of Japanese Dictionary may help you:
 
 <img src="/img/dictionary_guide.png" alt="Dictionary Guide" title="Dictionary Guide">
 
-4.Update/ Fix issues:
+# **4.Update/ Fix issues:**
 
 Add exception and pass speaking Japanese in 'japanese_dictionary_gui.py' when microphone can't recognize your speech . Error results: '<speech_recognition.audio.AudioData object at 0000x...>'
 
@@ -84,12 +84,12 @@ Update scan japanese from images.
 
 Update lecture interfaces and vocabularies. Coming soon!
 
-5.Reference projects:
+# **5.Reference projects:**
 
 https://github.com/yas-sim/handwritten-japanese-ocr
 
 https://github.com/AtomCrafty/KanjiStrokes
 
-6.Contact
+# **6.Contact**
 
 Please contact me via email: namcuongtp2000@gmail.com
