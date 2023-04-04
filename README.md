@@ -78,7 +78,7 @@ Here's tutorial by visual image of Japanese Dictionary may help you:
 
 # *3.3 Handwritting Window*
 
-Thank to https://github.com/yas-sim/handwritten-japanese-ocr, I modify a little source code to make it more features for you.
+Thanks to https://github.com/yas-sim/handwritten-japanese-ocr, I modify a little source code to make it more features for you.
 
 Here's Japanese Handwritting Recognition Window by running "python handwritting.py":
 
