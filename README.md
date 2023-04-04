@@ -76,7 +76,7 @@ Here's tutorial by visual image of Japanese Dictionary may help you:
 
 <img src="/img/dictionary_guide.png" alt="Dictionary Guide" title="Dictionary Guide">
 
-# **4.Update/ Fix issues:**
+# **4.Update/Fix issues:**
 
 Add exception and pass speaking Japanese in 'japanese_dictionary_gui.py' when microphone can't recognize your speech . Error results: '<speech_recognition.audio.AudioData object at 0000x...>'
 
