@@ -58,7 +58,7 @@ Here's tutorial by visual image may help you:
 
 <img src="/img/chatbot_guide.png" alt="Chatbot Guide" title="Chatbot Guide">
 
-There are about 250 topics you can chat with chatbot, may be it will make some mistakes and talk about something else doesn't match with your input messages but please give it a try.
+NOTES: There are about 250 topics you can chat with chatbot, may be it will make some mistakes and talk about something else doesn't match with your input messages but please give it a try.
 
 # *3.2 Japanese Dictionary Window*
 
