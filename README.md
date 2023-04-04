@@ -43,7 +43,7 @@ https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-3.1
 
 # *3.1. Chatbot window*
 
-Here's the chatbot window:
+Here's the chatbot window by running "python chatgui_speech.py":
 <img src="/img/chatbot_window.png" alt="Chatbot Window" title="Chatbot Window">
 
 You should choose your language in dropbox first and start chatting with chatbot by typing text and click "Send Text" or speak by "Microphone" symbol EXACTLY like your language you choose at first. If you use "Microphone", you can speak some command key words to open some applications/features for example "Open dictionary","Open handwriting" or "Open drawing strokes" (just something like Cortana or Google Assistant).
@@ -60,7 +60,7 @@ Here's tutorial by visual image may help you:
 
 # *3.2 Japanese Dictionary Window*
 
-Here's Japanese Dictionary Window: 
+Here's Japanese Dictionary Window by running "python japanese_dictionary.py": 
 
 <img src="/img/dictionary_window.png" alt="Dictionary Window" title="Dictionary Window">
 
@@ -75,6 +75,19 @@ Your results will display Japanese (Hiragan, Katakana or Kanji) words, and its m
 Here's tutorial by visual image of Japanese Dictionary may help you:
 
 <img src="/img/dictionary_guide.png" alt="Dictionary Guide" title="Dictionary Guide">
+
+# *3.3 Handwritting Window*
+
+Here's Japanese Handwritting Recognition Window by running "python handwritting.py":
+
+
+
+It's easy, you just draw Kanji or Japanese in white space and click "Recognize", it will response you by Japanese words, it's meaning in English and also speak it in Japanese. After that, you can click Left mouse to contunue and click "Clear" to clear space and continue draw. Moreover, you can set 2 factor options above.
+
+Here's an example result:
+
+
+
 
 # **4.Update/Issues:**
 
