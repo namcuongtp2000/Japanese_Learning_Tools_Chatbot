@@ -4,6 +4,8 @@
 This is a simple python application for Japanese Learners included Speech Chatbot and Handwritten Recognition features.
 If you want to use my work on your projects, please REFERENCE this GITHUB link.
 
+https://github.com/namcuongtp2000/Japanese_Learning_Tools_Chatbot
+
 # **2.Installation**
 
 python -m pip install -r requirements.txt
