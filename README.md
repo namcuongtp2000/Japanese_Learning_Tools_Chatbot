@@ -45,8 +45,6 @@ https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-3.1
 
 Add exception and pass speaking Japanese in 'japanese_dictionary_gui.py' when microphone can't recognize your speech . Error results: '<speech_recognition.audio.AudioData object at 0000x...>'
 
-Update scripts of scenario for chatbot for more extensive responses.
-
 Update scan japanese from images.
 
 5.Reference projects:
