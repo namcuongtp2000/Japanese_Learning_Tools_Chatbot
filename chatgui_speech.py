@@ -182,24 +182,30 @@ def activate_microphone_language():
         res = chatbot_response(smsg_en)
         
         #Output speaker voice
-        if res =='open handwriting':
+        if res =='Open handwriting':
             print('Navigating to handwriting')
             playvoice(translate_to_dest('open japanese handwriting'))
             os.system('python handwritten.py')
-        elif res =='open camera':
+        elif res =='Open camera':
             print('Navigating to camera')
             playvoice(translate_to_dest('open scan camera'))
             os.system('')
-        elif res == 'open dictionary':
+        elif res == 'Open dictionary':
             print('Navigating to dictionary')
             playvoice(translate_to_dest('open dictionary'))
             os.system('python japanese_dictionary_gui.py')
-        elif res == "open lectures":
+        elif res == "Open lectures":
             print("Navigating to lectures")
             playvoice(translate_to_dest(""))
-        elif res == "job fair":
+        elif res == "Open job fair":
             print("Navigating to job fair")
             playvoice(translate_to_dest("open job fair"))
+        elif res == "Open drawing strokes ":
+            print("Navigating to drawing strokes")
+            playvoice(translate_to_dest("open drawing strokes"))
+        elif res == "Open vocabularies":
+            print("Navigating to vocabularies")
+            playvoice(translate_to_dest("open vocabularies"))
         elif res == 'OK. I will summarize your documents immediately, please wait for a second.':
             print('Navigating to summarizer.')
             playvoice(translate_to_dest('OK. Please make sure you entered text in text entry box before start using microphone. I will summarize your documents immediately, please wait for a second.'))
