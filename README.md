@@ -24,7 +24,7 @@ omz_downloader --name --text-detection-0003
 + intents.json
 + chatgui_speech.py
 + chatapp.py
-+ japanese_dictionary.py
++ japanese_dictionary_gui.py
 + handwritten.py  
 + data  
 | + kondate_nakayosi_char_list.txt  
