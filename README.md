@@ -97,13 +97,19 @@ Here's an example result:
 <img src="/img/Handwritting_result.png" alt="Handwritting Result" title="Handwritting Result">
 
 
-# **4.Update/Issues:**
+# **4.Update/Current Issues:**
+
+# 4.1 Current issues
 
 For now, I just supported 6 languages as following: English, Vietnamese, Japanese, Korean, French and Chinese. Sorry you guys but I'm lazy to put more if/else in my code, it's because I'm just a newbie. If I made any mistakes, I will try to correct, optimize my algorithms and practice my coding skills more and more.
 
 Add exception and pass speaking Japanese in 'japanese_dictionary_gui.py' when microphone can't recognize your speech . Error results: '<speech_recognition.audio.AudioData object at 0000x...>'
 
 Sometimes, Google APIs such as speech_recognition(Speech to text) or gTTS(text to speech) required you must have a good and stable internet connection. You should make sure you're online to use these features. Or you can replace Google APIs Speech to Text or Text to Speech (Natural Voice Speakers) by other providers may make this app better (however, you must pay to use most of them).
+
+Handwritten.py sometimes will make mistakes detecting too many anchor boxes and will not recognize your handwritting, it's not complete like Google Handwritting so please try to write as neat as possible.
+
+# 4.2 Update
 
 Update scan japanese from images.
 
