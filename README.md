@@ -60,7 +60,7 @@ Here's tutorial by visual image may help you:
 
 <img src="/img/chatbot_guide.png" alt="Chatbot Guide" title="Chatbot Guide">
 
-NOTES: There are about 250 topics talk about Japan and Japanese you can chat with chatbot, may be it will make some mistakes and talk about something else doesn't match with your input messages but please give it a try.
+NOTES: There are about 250 topics and most of them talk about Japan and Japanese you can chat with chatbot, may be it will make some mistakes and talk about something else doesn't match with your input messages but please give it a try.
 
 # *3.2 Japanese Dictionary Window*
 
@@ -82,7 +82,7 @@ Here's tutorial by visual image of Japanese Dictionary may help you:
 
 # *3.3 Handwritting Window*
 
-Thanks to https://github.com/yas-sim/handwritten-japanese-ocr, I modify a little source code to make it more features for you.
+Thanks to https://github.com/yas-sim/handwritten-japanese-ocr, I modified a little bit in source code to make it more features for you.
 
 Here's Japanese Handwritting Recognition Window by running "python handwritten.py":
 
@@ -101,6 +101,8 @@ Here's an example result:
 For now, I just supported 6 languages as following: English, Vietnamese, Japanese, Korean, French and Chinese. Sorry you guys but I'm lazy to put more if/else in my code, it's because I'm just a newbie. If I made any mistakes, I will try to correct, optimize my algorithms and practice my coding skills more and more.
 
 Add exception and pass speaking Japanese in 'japanese_dictionary_gui.py' when microphone can't recognize your speech . Error results: '<speech_recognition.audio.AudioData object at 0000x...>'
+
+Sometimes, Google APIs such as speech_recognition(Speech to text) or gTTS(text to speech) required you must have a good and stable internet connection. You should make sure you're online to use these features. Or you can replace Google APIs Speech to Text or Text to Speech (Natural Voice Speakers) by other providers may make this app better (however, you must pay to use most of them).
 
 Update scan japanese from images.
 
