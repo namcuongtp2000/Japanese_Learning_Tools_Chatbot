@@ -231,9 +231,6 @@ def send():
     msg = EntryBox.get("1.0",'end-1c').strip()
     EntryBox.delete("0.0",END)
     msg_en = translate_to_en(msg)
-    
-    global id
-    id = id + 1
     #Execute
     if msg_en != '':
         res = chatbot_response(msg_en)
