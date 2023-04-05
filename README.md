@@ -88,8 +88,9 @@ Here's Japanese Handwritting Recognition Window by running "python handwritten.p
 
 <img src="/img/Handwritting_window.png" alt="Handwritting Window" title="Handwritting Window">
 
-It's easy, you just draw Kanji or Japanese in white space and click "Recognize", it will response you by Japanese words, it's meaning in English and also speak it in Japanese. After that, you can click Left mouse to contunue and click "Clear" to clear space and continue draw. Moreover, you can set 2 factor options above.
-You can see and copy its text and  looking up results in the Terminal or CMD.
+It's easy, you just draw Kanji or Japanese in white space and click "Recognize", it will response you by Japanese words, it's meaning in English and also speak it in Japanese. After that, you can click Left mouse to contunue and click "Clear" to clear space and continue draw. Moreover, you can set 2 options above: Link and Classic to adjust your pen.
+
+You can check or copy its text and looking up results in the Terminal or CMD.
 
 Here's an example result:
 
