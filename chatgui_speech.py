@@ -203,6 +203,7 @@ def activate_microphone_language():
         elif res == "Open drawing strokes ":
             print("Navigating to drawing strokes")
             playvoice(translate_to_dest("open drawing strokes"))
+            os.system('start KanjiStrokes/KanjiStrokes.exe')
         elif res == "Open vocabularies":
             print("Navigating to vocabularies")
             playvoice(translate_to_dest("open vocabularies"))
