@@ -98,7 +98,7 @@ Here's an example result:
 
 You can follow the demo functions in this video: 
 
-https://www.youtube.com/watch?v=dxc5YkIm1_M&t=2s
+[![Watch the video](https://img.youtube.com/vi/dxc5YkIm1_M&t=2s/0.jpg)](https://youtu.be/dxc5YkIm1_M&t=2s)
 
 # **4.Update/Current Issues:**
 
