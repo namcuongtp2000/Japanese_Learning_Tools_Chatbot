@@ -98,7 +98,7 @@ Here's an example result:
 
 You can follow the demo functions in this video: 
 
-[![Watch the video](https://i3.ytimg.com/vi/dxc5YkIm1_M/maxresdefault.jpg)](https://youtu.be/dxc5YkIm1_M&t=2s)
+https://youtu.be/dxc5YkIm1_M&t=2s
 
 # **4.Update/Current Issues:**
 
