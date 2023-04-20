@@ -96,6 +96,9 @@ Here's an example result:
 
 <img src="/img/Handwritting_result.png" alt="Handwritting Result" title="Handwritting Result">
 
+You can follow the demo functions in this video: 
+
+https://www.youtube.com/watch?v=dxc5YkIm1_M&t=2s
 
 # **4.Update/Current Issues:**
 
